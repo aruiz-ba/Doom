@@ -24,4 +24,5 @@ The floating enemies can only be killed with the BFG, which use cells as ammo.
 <img src="https://github.com/aruiz-ba/images/blob/master/Doom1.png"></img>
 <img src="https://github.com/aruiz-ba/images/blob/master/Doom2.png"></img>
 <img src="https://github.com/aruiz-ba/images/blob/master/Doom3.png"></img>
+# Map Editor
 <img src="https://github.com/aruiz-ba/images/blob/master/Doom4.png"></img>
