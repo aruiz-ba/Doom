@@ -3,7 +3,7 @@
 To install the library : make installSDL
 
 Menu commands
-	- WASD : move the cursor
+	- WASD : move the cursor\n
 	- Enter : validate selection
 
 In-game commands
